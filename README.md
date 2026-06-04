@@ -13,7 +13,7 @@ public class NehalTyagi {
     String cgpa       = "8.06 / 10.0";
     String[] stack    = {"Java", "Node.js", "Python", "React"};
     String currently  = "Building backend systems & exploring system design";
-    String outside    = "Running Toastmasters chapters & public speaking";
+    String outside    = "Chartered a Toastmasters club in college";
 }
 ```
 
