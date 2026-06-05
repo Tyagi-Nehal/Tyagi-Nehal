@@ -74,14 +74,10 @@ class Nehal:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tyagi-Nehal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyagi-Nehal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="165"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tyagi-Nehal&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyagi-Nehal&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -106,8 +102,3 @@ class Nehal:
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
----
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn)
