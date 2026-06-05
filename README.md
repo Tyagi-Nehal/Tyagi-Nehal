@@ -14,7 +14,6 @@
   </a>
 </p>
 
-<!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tyagi-Nehal&color=7c3aed&style=flat-square&label=Profile+Views"/>
 </p>
@@ -89,7 +88,7 @@ class Nehal:
 
 ## 🏆 Highlights
 
-- 🥇 **Cisco Champions League** — Forecasting competition participant, certified by Cisco's Director of Central Forecasting & Transformation
+- 🥇 **Cisco Champions League** — Certified by Cisco's Director of Central Forecasting & Transformation
 - 🏅 **SDG Hackspace '25** — Top 70 out of 200+ teams (Aviation Weather Intelligence)
 - 🔐 **SRiJAN 2026 by Atos** — Built Campus Fortress, a zero-latency adaptive auth system
 - 🎤 **Charter President** — MAHE Bengaluru Toastmasters (chartered Feb 2026)
@@ -107,10 +106,6 @@ class Nehal:
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-## Certifications
-
-AWS Cloud Careers &nbsp;·&nbsp; RESTful APIs &nbsp;·&nbsp; Cyber Security &nbsp;·&nbsp; Generative AI
 
 ---
 
